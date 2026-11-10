@@ -24,5 +24,11 @@ public class Alumno {
         }
     }
 
+    public void promedio(){
+          
+    }
+        
+    
+
     
 }

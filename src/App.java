@@ -4,8 +4,8 @@ public class App {
         double[] notasLuci = {7,9,8};
         double[] notasJuan = {7,7,7};
 
-        Alumno a1 = new Alumno("Luci",18,notasLuci);
-        Alumno a2 = new Alumno("Juan",20,notasJuan);
+        // Alumno a1 = new Alumno("Luci",18,notasLuci);
+        // Alumno a2 = new Alumno("Juan",20,notasJuan);
 
         Curso algoritmo = new Curso("Algoritmos y Estructuras de Datos I");
 
